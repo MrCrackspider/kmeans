@@ -1,0 +1,9 @@
+C:\Users\kotle\source\repos\kmeans\kmeans\bin\Debug\kmeans.exe.config
+C:\Users\kotle\source\repos\kmeans\kmeans\bin\Debug\kmeans.exe
+C:\Users\kotle\source\repos\kmeans\kmeans\bin\Debug\kmeans.pdb
+C:\Users\kotle\source\repos\kmeans\kmeans\obj\Debug\kmeans.Form1.resources
+C:\Users\kotle\source\repos\kmeans\kmeans\obj\Debug\kmeans.Properties.Resources.resources
+C:\Users\kotle\source\repos\kmeans\kmeans\obj\Debug\kmeans.csproj.GenerateResource.cache
+C:\Users\kotle\source\repos\kmeans\kmeans\obj\Debug\kmeans.csproj.CoreCompileInputs.cache
+C:\Users\kotle\source\repos\kmeans\kmeans\obj\Debug\kmeans.exe
+C:\Users\kotle\source\repos\kmeans\kmeans\obj\Debug\kmeans.pdb
